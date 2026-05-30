@@ -77,14 +77,14 @@ understanding.
 Problem solving is mostly *doing*, not watching, so the video diet is
 small here.
 
-| Topic                                | Channel / Video                                                | Length |
-|--------------------------------------|----------------------------------------------------------------|--------|
-| How to think about a problem         | freeCodeCamp — *"How to think like a programmer"* (kid clip)   | 8 min  |
-| Polya's 4 steps (kid-friendly)       | TED-Ed — *"Can you solve…?"* riddles (any 2 episodes)          | 5 min  |
-| Reading errors confidently           | re-watch the mCoding traceback short from Phase 2              | 4 min  |
-| What's an algorithm? (revisit)       | Crash Course CS — Ep. 13 *"Algorithms"*                        | 12 min |
-| Sorting visualized                   | "15 Sorting Algorithms in 6 Minutes" by Timo Bingmann (YouTube) | 6 min  |
-| Searching visualized                 | "Binary Search" visual by Computerphile                        | 9 min  |
+| Topic                                | Channel / Video                                                                                                                          | Length |
+|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| How to think about a problem         | freeCodeCamp — [*"How to think like a programmer"*](https://www.youtube.com/watch?v=azcrPFhaY9k)                                          | 8 min  |
+| Polya's 4 steps (kid-friendly)       | TED-Ed — [*"Can you solve…?"* riddle playlist](https://www.youtube.com/playlist?list=PLJicmE8fK0EgVwBRDvSJyTfufx7ynjpJW)                  | 5 min  |
+| Reading errors confidently           | re-watch the mCoding traceback short from Phase 2                                                                                        | 4 min  |
+| What's an algorithm? (revisit)       | Crash Course CS — [Ep. 13 *"Algorithms"*](https://www.youtube.com/watch?v=rL8X2mlNHPM)                                                    | 12 min |
+| Sorting visualized                   | Timo Bingmann — [*"15 Sorting Algorithms in 6 Minutes"*](https://www.youtube.com/watch?v=kPRA0W1kECg)                                     | 6 min  |
+| Searching visualized                 | Computerphile — [*"Binary Search"*](https://www.youtube.com/results?search_query=computerphile+binary+search)                             | 9 min  |
 
 That's it for the phase. Resist the urge to add more — *they need reps,
 not lectures*.
@@ -95,30 +95,31 @@ not lectures*.
 
 We climb a ladder. Don't skip rungs.
 
-### Rung 1 — CodingBat ([codingbat.com/python](https://codingbat.com/python))
+### Rung 1 — [CodingBat](https://codingbat.com/python)
 
 - **Best beginner site in the world.** Microscopic problems, one function
   each, instant feedback in the browser.
 - Order to do them in:
-  `Warmup-1 → Warmup-2 → String-1 → List-1 → Logic-1 → String-2 → List-2 → Logic-2`
+  [Warmup-1](https://codingbat.com/python/Warmup-1) → [Warmup-2](https://codingbat.com/python/Warmup-2) →
+  [String-1](https://codingbat.com/python/String-1) → [List-1](https://codingbat.com/python/List-1) →
+  [Logic-1](https://codingbat.com/python/Logic-1) → [String-2](https://codingbat.com/python/String-2) →
+  [List-2](https://codingbat.com/python/List-2) → [Logic-2](https://codingbat.com/python/Logic-2)
 - Goal for this phase: **at least 80 problems solved**.
 
-### Rung 2 — Edabit ([edabit.com](https://edabit.com))
+### Rung 2 — [Edabit](https://edabit.com)
 
 - Beautiful UI, gamified XP, problems tagged by difficulty.
 - Stay in **"Very Easy" and "Easy"** for this phase.
 - Goal: **at least 40 problems** across "Very Easy" → "Easy".
 
-### Rung 3 — HackerRank "Python" track, *Easy* only
+### Rung 3 — [HackerRank "Python" track](https://www.hackerrank.com/domains/python), *Easy* only
 
-- [hackerrank.com/domains/python](https://www.hackerrank.com/domains/python).
 - Specifically the **"Introduction"** and **"Basic Data Types"** sections.
 - Slightly more "test-input-from-stdin" style — good prep for any contest.
 
-### Rung 4 (stretch) — CodeChef "Beginner" / "School" practice
+### Rung 4 (stretch) — [CodeChef "Beginner" / "School" practice](https://www.codechef.com/practice)
 
-- [codechef.com/practice](https://www.codechef.com/practice) → filter
-  *Difficulty: 1★*.
+- Filter *Difficulty: 1★*.
 - Only attempt these in the **last 2 weeks** of the phase, and only if
   Rungs 1–3 feel easy.
 - Skip the contests for now — the time pressure is unhelpful at this age.
@@ -169,7 +170,7 @@ on sight.
 Two project bursts in this phase, each one session:
 
 1. **Personal Solver Book** — a tiny static site (just one `index.html` or
-   a notion page) where the kid lists every problem they've solved with:
+   a [Notion](https://www.notion.so) page) where the kid lists every problem they've solved with:
    - link
    - their solution
    - one line: *"What was the trick?"*
@@ -189,10 +190,9 @@ Two project bursts in this phase, each one session:
 Problem solving isn't only on a screen. Once a week, do **one non-code
 puzzle** together. Rotate:
 
-- **Bebras challenges** ([bebraschallenge.org](https://www.bebraschallenge.org))
-  — free past papers; every problem is a CS-thinking puzzle in disguise.
-- **Brilliant.org "Logic"** course.
-- **Smullyan-style** knights-and-knaves riddles.
+- [**Bebras Challenges**](https://www.bebraschallenge.org) — free past papers; every problem is a CS-thinking puzzle in disguise.
+- [**Brilliant.org "Logic"**](https://brilliant.org/courses/logic-deduction/) course.
+- **Smullyan-style** knights-and-knaves riddles (search YouTube for [Ted-Ed Smullyan-style riddles](https://www.youtube.com/results?search_query=ted-ed+knights+knaves+riddle)).
 - A real-life decomposition: *"How would you organize a 30-person birthday
   party? Break it into the smallest possible steps."*
 

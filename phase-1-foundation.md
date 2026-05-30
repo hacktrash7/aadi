@@ -45,14 +45,14 @@ Pick **one short video per session**. Don't binge.
 
 | # | Video                                                              | Why                                       | Length |
 |---|--------------------------------------------------------------------|-------------------------------------------|--------|
-| 1 | Code.org — *"What most schools don't teach"*                       | Hook video; *why* code matters            | 5 min  |
-| 2 | Code.org — *"How computers work"* series (6 short videos)          | Mental model of CPU, memory, input/output | 5×4 m  |
-| 3 | CS Unplugged — *Binary numbers* card trick                         | Numbers are just patterns                 | 6 min  |
-| 4 | Crash Course Computer Science — Ep. 1 (*"Early Computing"*)        | Big-picture story; very animated          | 11 min |
-| 5 | TED-Ed — *"How algorithms shape our world"* (kid-friendly version) | Algorithms are everywhere                 | 4 min  |
-| 6 | BBC Bitesize — *Decomposition*, *Patterns*, *Abstraction* shorts   | The 4 pillars, plain English              | 2–3 m  |
+| 1 | Code.org — [*"What most schools don't teach"*](https://www.youtube.com/watch?v=nKIu9yen5nc)                                                                          | Hook video; *why* code matters            | 5 min  |
+| 2 | Code.org — [*"How Computers Work"* with Bill Gates (playlist)](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)                              | Mental model of CPU, memory, input/output | 5×4 m  |
+| 3 | CS Unplugged — [*Binary Numbers* card trick](https://www.youtube.com/results?search_query=cs+unplugged+binary+numbers+card+trick)                                     | Numbers are just patterns                 | 6 min  |
+| 4 | Crash Course CS — [Ep. 1 *"Early Computing"*](https://www.youtube.com/watch?v=O5nskjZ_GoI)                                                                            | Big-picture story; very animated          | 11 min |
+| 5 | TED-Ed — [*"How algorithms shape our world"* (Kevin Slavin)](https://www.youtube.com/results?search_query=kevin+slavin+how+algorithms+shape+our+world+ted)            | Algorithms are everywhere                 | 4 min  |
+| 6 | BBC Bitesize — [*Decomposition / Patterns / Abstraction* shorts](https://www.bbc.co.uk/bitesize/topics/z7tp34j)                                                       | The 4 pillars, plain English              | 2–3 m  |
 
-(See [`resources.md`](./resources.md) for direct links.)
+(See [`resources.md`](./resources.md) for the full curated list.)
 
 ---
 
@@ -61,7 +61,7 @@ Pick **one short video per session**. Don't binge.
 This phase is **block-based on purpose**. The kid drags coloured blocks
 together, sees them run as animations, and learns the *shapes* of programs.
 
-### Primary playground — Code.org's *CS Fundamentals* (Courses C, D, E)
+### Primary playground — [Code.org's *CS Fundamentals*](https://studio.code.org/courses) (Courses C, D, E)
 
 - Free, browser-based, gorgeous puzzle UI.
 - Star Wars / Frozen / Minecraft / Flappy themes — pick whatever clicks.
@@ -70,7 +70,7 @@ together, sees them run as animations, and learns the *shapes* of programs.
   on the side panel — they start to notice that text-code is just blocks
   written out.
 
-### Secondary playground — Scratch (scratch.mit.edu)
+### Secondary playground — [Scratch](https://scratch.mit.edu)
 
 - Open-ended creativity. Use this on **Friday / weekend sessions**.
 - Three "must-build" Scratch projects in this phase:
@@ -80,9 +80,9 @@ together, sees them run as animations, and learns the *shapes* of programs.
 
 ### Brain gym — Lightbot, Blockly Games, CS Unplugged activities
 
-- **Lightbot** (1 hr free puzzles) — pure algorithmic thinking.
-- **Blockly Games** — Maze, Bird, Turtle, Pond. Excellent ramp.
-- **CS Unplugged** (offline activities) — binary cards, sorting networks
+- [**Lightbot**](https://lightbot.com/flash.html) (1 hr free puzzles) — pure algorithmic thinking.
+- [**Blockly Games**](https://blockly.games) — Maze, Bird, Turtle, Pond. Excellent ramp.
+- [**CS Unplugged**](https://csunplugged.org) (offline activities) — binary cards, sorting networks
   on the floor, the "orange game" (parallel sorting). Do these on a tired
   evening when screens feel like too much.
 
@@ -105,7 +105,7 @@ Each project should fit in one session and produce a shareable result.
 | 10         | **Bug Hunt** — parent intentionally breaks one of the kid's earlier projects; kid finds and fixes the bug | Debugging mindset |
 
 The **PB&J sandwich** session is hilarious and unforgettable — every kid
-remembers it years later. Don't skip it.
+remembers it years later. There's also a [famous live demo of it](https://www.youtube.com/results?search_query=exact+instructions+challenge+peanut+butter+jelly+dad) on YouTube ("Exact Instructions Challenge") — watch it together first, the kid will laugh and *get it* in three minutes.
 
 ---
 

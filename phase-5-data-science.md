@@ -43,12 +43,12 @@ be fluent in:
 
 | Tool             | What it does                                               |
 |------------------|------------------------------------------------------------|
-| **Google Colab** | Jupyter notebooks in the browser, no install               |
-| **pandas**       | Loading, cleaning, slicing, grouping data                  |
-| **matplotlib**   | Quick charts — the basics                                  |
-| **seaborn**      | Pretty charts with one line of code                        |
-| **numpy** (light) | Vectors of numbers — used implicitly inside pandas        |
-| **Kaggle Datasets** | The data buffet — kid-safe, free, huge variety          |
+| [**Google Colab**](https://colab.research.google.com) | Jupyter notebooks in the browser, no install         |
+| [**pandas**](https://pandas.pydata.org)               | Loading, cleaning, slicing, grouping data            |
+| [**matplotlib**](https://matplotlib.org)              | Quick charts — the basics                            |
+| [**seaborn**](https://seaborn.pydata.org)             | Pretty charts with one line of code                  |
+| [**numpy**](https://numpy.org) (light)                | Vectors of numbers — used implicitly inside pandas   |
+| [**Kaggle Datasets**](https://www.kaggle.com/datasets) | The data buffet — kid-safe, free, huge variety      |
 
 We deliberately **do not** introduce: virtualenvs, pip on the local
 machine, plotly dash, requests/APIs, SQL. All of those can come later.
@@ -57,32 +57,32 @@ machine, plotly dash, requests/APIs, SQL. All of those can come later.
 
 ## Watch (videos & visual demos)
 
-### The spine: **"Pandas in 60 minutes" (freeCodeCamp / Corey Schafer)**
+### The spine: [**Corey Schafer's Pandas Tutorial playlist**](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 
-We watch Corey Schafer's **"Python Pandas Tutorial"** series, but
-*one episode every few sessions*, paused liberally. The kid types every
-example alongside the video. No passive watching.
+We watch this playlist, but *one episode every few sessions*, paused
+liberally. The kid types every example alongside the video. No passive
+watching.
 
 ### Supporting clips (one per relevant session)
 
-| Topic                              | Channel / Video                                                | Length |
-|------------------------------------|----------------------------------------------------------------|--------|
-| What is a DataFrame?               | Keith Galli — *"Solving real-world data science tasks with Pandas!"* first 8 min | 8 min |
-| Matplotlib intro                   | Corey Schafer — *"Matplotlib Tutorial 1"*                      | 35 min (split into 3 sessions) |
-| Seaborn vs Matplotlib              | Data School short                                              | 5 min  |
-| EDA mindset                        | StatQuest — *"Exploratory Data Analysis"* (a friendly walk-through) | 12 min |
-| Cleaning messy data                | Real Python YouTube — *"Pandas: Clean Your Data"*              | 10 min |
-| What is a Jupyter notebook?        | Keith Galli — short                                            | 6 min  |
-| Telling a story with data          | TED — Hans Rosling clips (rewatch from Phase 4)                | 5 min  |
-| How to read documentation          | mCoding — *"Read the docs!"*                                   | 5 min  |
+| Topic                              | Channel / Video                                                                                                                       | Length |
+|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|--------|
+| What is a DataFrame? (real-world)  | Keith Galli — [*"Solving real-world data science tasks with Pandas"*](https://www.youtube.com/watch?v=eMOA1pPVUc4) (first 8 min)      | 8 min  |
+| Matplotlib intro                   | Corey Schafer — [*"Matplotlib Tutorial"* playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) (split)  | 35 min |
+| Seaborn vs Matplotlib              | Data School — [seaborn intro](https://www.youtube.com/results?search_query=data+school+seaborn+vs+matplotlib)                          | 5 min  |
+| EDA mindset                        | StatQuest — [*"Exploratory Data Analysis"*](https://www.youtube.com/results?search_query=statquest+exploratory+data+analysis)         | 12 min |
+| Cleaning messy data                | Real Python — [*"Pandas: Clean Your Data"*](https://www.youtube.com/results?search_query=real+python+pandas+clean+your+data)          | 10 min |
+| What is a Jupyter notebook?        | Keith Galli — [*"Complete Python Pandas Data Science Tutorial"*](https://www.youtube.com/watch?v=vmEHCJofslg) (intro section)         | 6 min  |
+| Telling a story with data          | Hans Rosling — [*"200 Countries, 200 Years"*](https://www.youtube.com/watch?v=jbkSRLYSojo) (rewatch)                                  | 5 min  |
+| How to read documentation          | mCoding — [*"Stop posting your code if you haven't read this"*](https://www.youtube.com/results?search_query=mcoding+read+the+docs)   | 5 min  |
 
 ### Bonus, optional, weekend
 
-- **3Blue1Brown** — *"What's a Tensor?"* (only the first 2 minutes; the
+- 3Blue1Brown — [*"What's a Tensor?"*](https://www.youtube.com/results?search_query=3blue1brown+what+is+a+tensor) (only the first 2 minutes; the
   rest is for high school) — just so the word stops being scary.
-- **Computerphile** — *"Big Data"* episode.
-- **NetworkChuck / sentdex** — pick *one* short *enthusiastic* video each
-  month to keep motivation high. Both are great for kid vibes.
+- Computerphile — [*"Big Data"*](https://www.youtube.com/results?search_query=computerphile+big+data) episode.
+- Pick *one* short *enthusiastic* video each month from [**sentdex**](https://www.youtube.com/@sentdex) or
+  [**NetworkChuck**](https://www.youtube.com/@NetworkChuck) to keep motivation high.
 
 ---
 
@@ -92,7 +92,7 @@ example alongside the video. No passive watching.
 
 - Open [colab.research.google.com](https://colab.research.google.com).
 - Sign in with the kid's Google account.
-- Create a folder in Drive: `Aadi Data Science/`.
+- Create a folder in [Drive](https://drive.google.com): `Aadi Data Science/`.
 - Every notebook lives there. Name them `01-titanic.ipynb`,
   `02-pokemon.ipynb`, etc. Build a *portfolio*.
 
@@ -105,18 +105,22 @@ example alongside the video. No passive watching.
 
 ### Kaggle Datasets — our buffet
 
-The single best repository of kid-friendly, real-world datasets:
+The single best repository of kid-friendly, real-world datasets — links go straight to the Kaggle pages:
 
-- **Pokémon stats** (every kid's gateway dataset)
-- **FIFA / NBA / IPL player stats**
-- **Disney+ / Netflix titles**
-- **Spotify "Top hits"**
-- **Penguins / Iris / Palmer Penguins** (smaller, classic)
-- **Titanic** (the legendary first ML dataset)
-- **Global Happiness Report**
-- **World Bank country indicators**
-- **Movie reviews / IMDB Top 1000**
-- **Weather in Delhi / Mumbai / your city**
+- [**Pokémon stats**](https://www.kaggle.com/datasets/abcsds/pokemon) (every kid's gateway dataset)
+- [**FIFA 23 player stats**](https://www.kaggle.com/datasets/stefanoleone992/fifa-23-complete-player-dataset)
+- [**NBA player stats**](https://www.kaggle.com/datasets/justinas/nba-players-data)
+- [**IPL ball-by-ball**](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
+- [**Netflix titles**](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- [**Disney+ titles**](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows)
+- [**Spotify Top 200**](https://www.kaggle.com/datasets/sashankpillai/spotify-top-200-charts-20202021)
+- [**Palmer Penguins**](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data) (smaller, classic)
+- [**Iris**](https://www.kaggle.com/datasets/uciml/iris) (built into scikit-learn too)
+- [**Titanic**](https://www.kaggle.com/competitions/titanic) (the legendary first ML dataset)
+- [**World Happiness Report**](https://www.kaggle.com/datasets/unsdsn/world-happiness)
+- [**World Bank country indicators**](https://www.kaggle.com/datasets/theworldbank/world-development-indicators)
+- [**IMDB Top 1000 movies**](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
+- [**Weather in Delhi**](https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data) (or your city — search by city name)
 
 We pick datasets the kid *already cares about*. Curiosity is the engine.
 
@@ -161,7 +165,9 @@ This is *practice* for the actual Capstone in Phase 7.
 ## The pandas mini-syllabus
 
 Taught organically *through projects*, but here's the checklist of skills
-the kid should own by end of phase:
+the kid should own by end of phase. Bookmark the [**pandas
+cheat-sheet PDF**](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) on the
+laptop's desktop.
 
 ### Loading & inspecting
 - `pd.read_csv`, `df.head`, `df.tail`, `df.shape`, `df.info`, `df.describe`
@@ -198,8 +204,9 @@ the kid should own by end of phase:
 
 ## AI tools — introduced here, carefully
 
-From Phase 5 onwards, the kid is allowed to use ChatGPT / Cursor / Claude
-**as a tutor**, supervised. The rule, posted on the wall:
+From Phase 5 onwards, the kid is allowed to use [ChatGPT](https://chat.openai.com) /
+[Cursor](https://cursor.com) / [Claude](https://claude.ai) **as a tutor**,
+supervised. The rule, posted on the wall:
 
 > **"Ask the AI to *explain*, never to *do*."**
 
@@ -222,17 +229,18 @@ relaxes.
 
 Keep solving **1 problem from CodingBat/Edabit at the start of each
 session**. By Phase 5 they should be doing **"Medium"** problems on
-Edabit comfortably. We are not letting this muscle atrophy.
+[Edabit](https://edabit.com) comfortably. We are not letting this muscle
+atrophy.
 
 ---
 
 ## Explain back (checkpoints)
 
 - After every notebook, the kid records a **3-minute screen-recorded
-  walkthrough** (Loom / OBS / phone) — explaining their question, their
-  cleaning steps, their findings. Stored in a folder. By end of phase
-  there should be ~8 of these. This is **mandatory** — public-speaking
-  practice with data is rare and valuable.
+  walkthrough** ([Loom](https://www.loom.com) / [OBS](https://obsproject.com) / phone) —
+  explaining their question, their cleaning steps, their findings. Stored in a
+  folder. By end of phase there should be ~8 of these. This is **mandatory** —
+  public-speaking practice with data is rare and valuable.
 - Friday session = kid demos that week's notebook to the family for 5
   minutes.
 

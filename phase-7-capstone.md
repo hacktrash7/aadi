@@ -27,14 +27,26 @@ reasons:
 
 **One project, with three deliverables:**
 
-1. **A Colab notebook** — the technical artifact, well-commented, with
-   markdown narrative throughout.
-2. **A 5-slide presentation** — the human-friendly version.
-3. **A 5-minute screen-recorded video** — the kid presenting their work
-   like Hans Rosling: with energy and clarity.
+1. A **[Colab](https://colab.research.google.com) notebook** — the
+   technical artifact, well-commented, with markdown narrative throughout.
+2. A **5-slide presentation** ([Google Slides](https://slides.google.com)
+   or [Canva](https://www.canva.com)) — the human-friendly version.
+3. A **5-minute screen-recorded video** ([Loom](https://www.loom.com) or
+   [OBS Studio](https://obsproject.com)) — the kid presenting their work
+   like [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo): with energy and clarity.
 
 That's it. We don't add anything else (like a website or a paper) —
 adding more dilutes the focus.
+
+---
+
+## Inspiration to rewatch before starting
+
+| Watch this | Why |
+|-----------|-----|
+| Hans Rosling — [*"200 Countries, 200 Years, 4 Minutes"*](https://www.youtube.com/watch?v=jbkSRLYSojo) | The gold standard of data storytelling. Energy + clarity. |
+| Hans Rosling — [*"The best stats you've ever seen"* (TED)](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen) | The full 20-min version. Watch *how* he tells the story. |
+| Keith Galli — [*"Solving real-world data science tasks with Pandas"*](https://www.youtube.com/watch?v=eMOA1pPVUc4) | A great worked Kaggle walkthrough. Watch for *structure*, not to copy. |
 
 ---
 
@@ -56,8 +68,8 @@ The kid picks. The parent's job is only to **veto unrealistic scope**
 
 - Something the kid **already enjoys** outside of code (sports, music,
   games, movies, animals, weather).
-- A dataset that **exists** on Kaggle or a free source — we are not
-  scraping the web yet.
+- A dataset that **exists** on [Kaggle](https://www.kaggle.com/datasets)
+  or a free source — we are not scraping the web yet.
 - A question **you can answer with charts** — not a yes/no debate.
 
 ### Red flags (the parent should gently redirect)
@@ -100,7 +112,7 @@ The kid picks. The parent's job is only to **veto unrealistic scope**
 | Session | Activity                                                                 |
 |---------|--------------------------------------------------------------------------|
 | 10      | Write the *story*: 5 markdown cells in the notebook, one per slide.     |
-| 11      | Build 5 slides (Google Slides, Canva, or Keynote). Practice once.        |
+| 11      | Build 5 slides ([Google Slides](https://slides.google.com), [Canva](https://www.canva.com), or Keynote). Practice once. |
 | 12      | Record the 5-min video. Watch it. Re-record once if needed. **Ship it.**|
 
 ---
@@ -130,8 +142,8 @@ it. We make a big deal of it.
 
 Tools (pick any):
 
-- **Loom** — easiest, free, browser-based.
-- **OBS Studio** — free, slightly more setup, professional output.
+- [**Loom**](https://www.loom.com) — easiest, free, browser-based.
+- [**OBS Studio**](https://obsproject.com) — free, slightly more setup, professional output.
 - **Phone propped on books** — pointed at the screen. Charmingly low-fi.
 
 Guidelines:
@@ -161,7 +173,7 @@ much they've grown.
 - Outcome: a model that beats a dumb baseline by *some* margin.
 
 ### Shape C — "Tool" project (light ML + deployment)
-> *"A Streamlit app that predicts which IPL team will win a match."*
+> *"A [Streamlit](https://streamlit.io) app that predicts which IPL team will win a match."*
 - pandas + one ML model + Streamlit.
 - Outcome: a working web app. Maximum "wow" factor.
 
@@ -190,13 +202,13 @@ fix that specific thing. Standards are met by iteration, not by mercy.
 
 Have a casual conversation. Possible paths:
 
-- **More depth in DS:** harder Kaggle datasets, intermediate ML
-  (XGBoost), pandas advanced features.
-- **Math depth:** Brilliant.org "Statistics II", Khan Academy
-  Algebra II → eventually calculus when school catches up.
+- **More depth in DS:** harder [Kaggle](https://www.kaggle.com/competitions) datasets, intermediate ML
+  ([XGBoost](https://xgboost.readthedocs.io)), pandas advanced features.
+- **Math depth:** [Brilliant.org "Statistics II"](https://brilliant.org/courses/statistics/),
+  [Khan Academy Algebra II](https://www.khanacademy.org/math/algebra2) → eventually calculus when school catches up.
 - **Computer-science depth:** intro to algorithms via [USACO Guide
-  Bronze](https://usaco.guide/), CS50x lectures (these are advanced
-  but kid-friendly enough).
+  Bronze](https://usaco.guide/), [CS50x lectures](https://cs50.harvard.edu/x/)
+  (these are advanced but kid-friendly enough).
 - **Web side-quest:** if the kid wants to *deploy* their work properly,
   a short HTML/CSS/JS + Streamlit deeper dive.
 - **Just rest:** play more video games. Read more books. Touch grass.
@@ -209,7 +221,7 @@ Have a casual conversation. Possible paths:
 
 By the end of the capstone, the kid should be able to:
 
-1. ✅ Open a brand-new CSV they've never seen, load it in Colab, ask
+1. ✅ Open a brand-new CSV they've never seen, load it in [Colab](https://colab.research.google.com), ask
    three interesting questions, and answer them with charts.
 2. ✅ Train a simple ML model on it and explain what it learned, what
    it got wrong, and why.

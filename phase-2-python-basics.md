@@ -46,28 +46,27 @@ list comprehensions naturally in Phase 5), exceptions beyond a basic
 
 ## Watch (videos & visual demos)
 
-The "spine" video series is the **freeCodeCamp** "Python for Beginners with
-Mike Dane" (~1 hr total, broken into 3-to-5-min chapters). Watch
+The "spine" video series is the **freeCodeCamp "Python for Beginners with
+Mike Dane"** ([▶ full course, ~1 hr](https://www.youtube.com/watch?v=rfscVS0vtbw)), broken into 3-to-5-min chapters. Watch
 **one chapter per session**, never more.
 
 Supplement with:
 
-| Topic                  | Channel / Video                                                                | Length |
-|------------------------|--------------------------------------------------------------------------------|--------|
-| What is a variable?    | CS Dojo — *"Python Tutorial for Beginners 1"*                                  | 11 min |
-| f-strings              | Corey Schafer — *"Python Quick Tip: f-strings"*                                | 5 min  |
-| Lists vs dicts         | Tech With Tim — *"Lists vs Dictionaries"* (we'll mute the speed-coder ego)     | 6 min  |
-| How loops work         | Computerphile — *"Iteration"* short                                            | 5 min  |
-| Reading errors         | mCoding — *"How to read a Python traceback"* (kid-friendly clip, first 4 min)  | 4 min  |
+| Topic                  | Channel / Video                                                                                                                                       | Length |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| What is a variable?    | CS Dojo — [*"Python Tutorial for Beginners 1"*](https://www.youtube.com/watch?v=Z1Yd7upQsXY)                                                          | 11 min |
+| f-strings              | Corey Schafer — [*"Python Quick Tip: f-strings"*](https://www.youtube.com/watch?v=nghuHvKLhJA)                                                        | 5 min  |
+| Lists vs dicts         | Tech With Tim — [*"Python Lists vs Dictionaries"*](https://www.youtube.com/results?search_query=tech+with+tim+lists+vs+dictionaries+python)           | 6 min  |
+| How loops work         | Computerphile — [*"Iteration"*](https://www.youtube.com/results?search_query=computerphile+iteration)                                                 | 5 min  |
+| Reading errors         | mCoding — [*"How to read a Python traceback"*](https://www.youtube.com/results?search_query=mcoding+python+traceback)                                 | 4 min  |
 
-Add **3Blue1Brown's "Functions"** intro for the function week — beautiful
-visualization of "input → machine → output".
+Add **3Blue1Brown's** [intro on functions / "a machine that takes input → output"](https://www.youtube.com/@3blue1brown/search?query=function) during the function week — beautiful visualization.
 
 ---
 
 ## Play (interactive platforms)
 
-### Primary — Replit (replit.com)
+### Primary — [Replit](https://replit.com)
 
 - Free, browser-based, **no install ever**.
 - Make one Replit account for the kid. Every project lives there.
@@ -78,13 +77,13 @@ visualization of "input → machine → output".
 These are gamified Python platforms. Pick whichever the kid clicks with —
 don't force one.
 
-- **CodeCombat** (Python mode) — top-down RPG; the kid writes Python to move
+- [**CodeCombat**](https://codecombat.com) (Python mode) — top-down RPG; the kid writes Python to move
   a hero. Excellent for syntax muscle memory. Free tier is enough.
-- **Tynker Python** — heavier on visuals, slightly younger feel.
-- **Mimo** (mobile app) — bite-sized lessons, good for car rides / waiting
+- [**Tynker Python**](https://www.tynker.com/programming/python) — heavier on visuals, slightly younger feel.
+- [**Mimo**](https://mimo.org) (mobile app) — bite-sized lessons, good for car rides / waiting
   rooms. Great supplement, *not* a main course.
 
-### Drill yard — `pythontutor.com`
+### Drill yard — [`pythontutor.com`](https://pythontutor.com/python-debugger.html)
 
 This is **non-negotiable**. PythonTutor visualizes Python code execution
 **step by step** with arrows showing variables changing in memory.
@@ -176,8 +175,7 @@ Before moving to Phase 3, the kid must:
 3. ✅ When shown a Python *error message*, identify what kind of error
    it is (`SyntaxError`, `NameError`, `TypeError`, `IndexError`,
    `KeyError`) and where to look.
-4. ✅ Use **PythonTutor** independently to debug their own code at least
-   once.
+4. ✅ Use [**PythonTutor**](https://pythontutor.com/python-debugger.html) independently to debug their own code at least once.
 
 ---
 

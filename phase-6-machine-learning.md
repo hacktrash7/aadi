@@ -2,8 +2,8 @@
 
 > **Duration:** ~6–8 weeks (≈ 20 sessions)
 > **Goal:** Demystify "AI". The kid trains, evaluates, and *explains* simple
-> ML models — first with no code (Teachable Machine), then with
-> scikit-learn — and develops a healthy, critical view of what ML really is.
+> ML models — first with no code ([Teachable Machine](https://teachablemachine.withgoogle.com)), then with
+> [scikit-learn](https://scikit-learn.org) — and develops a healthy, critical view of what ML really is.
 
 ---
 
@@ -56,45 +56,46 @@ acknowledge by name and *defer*.
 
 ## Watch (videos & visual demos)
 
-### The spine: **StatQuest with Josh Starmer — "Machine Learning Basics"**
+### The spine: [**StatQuest with Josh Starmer — Machine Learning playlist**](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 
 Watch in order, one per session, with notebook open:
 
-1. *"Machine Learning Fundamentals: Cross Validation"* — overview of the
-   whole training/testing idea. (6 min)
-2. *"The Confusion Matrix"* (7 min)
-3. *"Sensitivity and Specificity"* (11 min — slow this one down)
-4. *"Bias and Variance"* (7 min)
-5. *"Decision Trees Clearly Explained!!!"* (17 min)
-6. *"Random Forests Clearly Explained!!!"* (10 min)
-7. *"K-Nearest Neighbors (KNN) Clearly Explained!"* (6 min)
-8. *"K-means clustering"* (9 min)
-9. *"Linear Regression, Clearly Explained!"* (27 min — split over 2 sessions)
-10. *"Logistic Regression, Clearly Explained!"* (9 min)
+| # | Video | Length |
+|---|-------|--------|
+| 1  | [*"Machine Learning Fundamentals: Cross Validation"*](https://www.youtube.com/watch?v=fSytzGwwBVw)     | 6 min  |
+| 2  | [*"The Confusion Matrix"*](https://www.youtube.com/watch?v=Kdsp6soqA7o)                                | 7 min  |
+| 3  | [*"Sensitivity and Specificity"*](https://www.youtube.com/watch?v=vP06aMoz4v8)                         | 11 min |
+| 4  | [*"Bias and Variance"*](https://www.youtube.com/watch?v=EuBBz3bI-aA)                                   | 7 min  |
+| 5  | [*"Decision Trees Clearly Explained"*](https://www.youtube.com/watch?v=_L39rN6gz7Y)                     | 17 min |
+| 6  | [*"Random Forests Part 1"*](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)                                | 10 min |
+| 7  | [*"K-Nearest Neighbors (KNN), Clearly Explained"*](https://www.youtube.com/watch?v=HVXime0nQeI)         | 6 min  |
+| 8  | [*"K-means clustering"*](https://www.youtube.com/watch?v=4b5d3muPQmA)                                   | 9 min  |
+| 9  | [*"Linear Regression, Clearly Explained"*](https://www.youtube.com/watch?v=nk2CQITm_eo) (split over 2)  | 27 min |
+| 10 | [*"Logistic Regression, Clearly Explained"*](https://www.youtube.com/watch?v=yIYKR4sgzI8)               | 9 min  |
 
 If StatQuest feels like too much for one beat, *cut, don't extend*.
 
 ### Supporting clips
 
-| Topic                              | Channel / Video                                                | Length |
-|------------------------------------|----------------------------------------------------------------|--------|
-| What is ML, intuitively?           | CGP Grey — *"How Machines Learn"*                              | 8 min  |
-| What is a neural network? (intuition only) | 3Blue1Brown — *"But what is a neural network?"* — first 8 min | 8 min  |
-| Bias in AI                         | TED — *"How I'm fighting bias in algorithms"* (Joy Buolamwini) | 9 min  |
-| AI gone wrong                      | Two Minute Papers — pick a recent "AI fails" episode           | 5 min  |
-| Why we split train / test          | Data School — *"What is overfitting?"*                         | 6 min  |
-| Ethics of AI for kids              | Code.org / Common Sense Media — *"AI ethics for tweens"*       | 6 min  |
+| Topic                              | Channel / Video                                                                                                                                | Length |
+|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| What is ML, intuitively?           | CGP Grey — [*"How Machines Learn"*](https://www.youtube.com/watch?v=R9OHn5ZF4Uo)                                                                | 8 min  |
+| What is a neural network? (intuition only) | 3Blue1Brown — [*"But what is a neural network?"*](https://www.youtube.com/watch?v=aircAruvnKk) — first 8 min                            | 8 min  |
+| Bias in AI                         | TED — [Joy Buolamwini *"How I'm fighting bias in algorithms"*](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)    | 9 min  |
+| AI gone wrong                      | [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers) — pick a recent "AI fails" episode                                                | 5 min  |
+| Why we split train / test          | Data School — [*"What is overfitting?"*](https://www.youtube.com/results?search_query=data+school+overfitting)                                   | 6 min  |
+| Ethics of AI for kids              | [Code.org / Common Sense Media — AI ethics resources](https://code.org/ai)                                                                      | 6 min  |
 
 ### Optional, weekend
 
-- **Computerphile**: *"How AlphaGo Beat the World Champion"*.
-- **Veritasium**: *"The most important algorithm ever"*.
+- Computerphile — [*"How AlphaGo Beat the World Champion"*](https://www.youtube.com/results?search_query=computerphile+alphago).
+- Veritasium — [*"The Discovery That Transformed Pi"*](https://www.youtube.com/@veritasium) (browse the channel for current "wow" episodes).
 
 ---
 
 ## Play — *no-code first*
 
-### Week 1–2: Google's **Teachable Machine** (teachablemachine.withgoogle.com)
+### Week 1–2: Google's [**Teachable Machine**](https://teachablemachine.withgoogle.com)
 
 This is *the* perfect first ML experience. The kid:
 
@@ -116,12 +117,12 @@ Required experiments (do all):
 
 These four little experiments teach more about ML than any textbook.
 
-### Week 3–4: **scikit-learn intro in Colab**
+### Week 3–4: [**scikit-learn**](https://scikit-learn.org/stable/getting_started.html) intro in Colab
 
 Now we move from "magic box" to "Python code". Three core notebooks:
 
 #### Notebook A — Iris classifier
-- Load the classic Iris dataset (`sklearn.datasets.load_iris`).
+- Load the classic [Iris dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html) (`sklearn.datasets.load_iris`).
 - Plot petal length vs petal width with color = species.
 - Train a `DecisionTreeClassifier`.
 - Split train/test (the kid manually splits 80/20 first, then learns
@@ -131,16 +132,19 @@ Now we move from "magic box" to "Python code". Three core notebooks:
   intuitive.
 
 #### Notebook B — Penguins KNN
-- Same workflow with K-Nearest Neighbors on the Palmer Penguins dataset.
+- Same workflow with K-Nearest Neighbors on the [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/).
 - Vary `k`. Watch how the boundary changes (use a 2D feature plot).
 - Introduce the idea of a **hyperparameter**.
 
 #### Notebook C — Linear regression
-- Use a small *housing* or *cars-price* dataset.
+- Use a small *housing* or *cars-price* dataset (e.g., [California Housing](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)).
 - Predict price from one feature first, then several.
 - Plot the prediction line over the scatter.
 - Look at *residuals* (errors) — discuss "the model is always a little
   wrong".
+
+> **Visual side-quest:** open [**TensorFlow Playground**](https://playground.tensorflow.org)
+> and play with a neural network in the browser — no code, just sliders. Great after the 3B1B video.
 
 ### Week 5–6: Apply to *their own data*
 
@@ -154,7 +158,8 @@ Now we move from "magic box" to "Python code". Three core notebooks:
 - **Clustering**: `KMeans` on the penguins or Spotify dataset; see the
   groups the algorithm finds without being told the labels.
 - **Deployment** (optional, exciting): take one model and put it behind
-  a **Streamlit** mini-app, in Colab or on streamlit.io. The kid types
+  a [**Streamlit**](https://streamlit.io) mini-app, in Colab or on
+  [Streamlit Community Cloud](https://streamlit.io/cloud). The kid types
   values into a web form and gets a prediction. *Their* model, on the
   internet. Massive motivational payoff.
 
@@ -199,7 +204,7 @@ Once in the phase — ideally after Teachable Machine — we have a 30-minute
 "AI Ethics" conversation. Anchored by:
 
 - The "lighting / sunglasses" failure they discovered.
-- The Joy Buolamwini TED talk.
+- The [Joy Buolamwini TED talk](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms).
 - One news story of an AI mistake (changes monthly; pick a current one).
 
 Discussion prompts:

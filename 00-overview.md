@@ -33,7 +33,7 @@ follows the same 5-beat rhythm:
 |-----------------|----------------------------------------------------------------------------------------------------|
 | **Hook**        | A question, a meme, a magic trick. "How does Netflix know what you'll like?" Curiosity first.      |
 | **Watch**       | One short, *high-quality* video or animation. Never longer than 10 min.                            |
-| **Play**        | Interactive platform — Scratch, Trinket, Replit, Brilliant. Hands on keyboard, low stakes.         |
+| **Play**        | Interactive platform — [Scratch](https://scratch.mit.edu), [Trinket](https://trinket.io), [Replit](https://replit.com), [Brilliant](https://brilliant.org). Hands on keyboard, low stakes. |
 | **Build**       | Tiny project applying the day's idea. Must produce a visible artifact (a chart, a game, a number). |
 | **Explain back**| Kid explains the day's idea to the parent in *under 5 minutes*. Parent plays dumb on purpose.      |
 
@@ -51,8 +51,8 @@ but is still developing tolerance for abstract symbol manipulation
 (brackets, colons, semicolons). So we always:
 
 - Show a **picture or animation** of the concept before writing any code.
-- Use **drag-and-drop blocks** (Scratch / Blockly) before raw Python where
-  it makes sense.
+- Use **drag-and-drop blocks** ([Scratch](https://scratch.mit.edu) /
+  [Blockly](https://blockly.games)) before raw Python where it makes sense.
 - Translate Python errors into **English sentences** with the kid the first
   20 times.
 - Reach for **physical metaphors**: variables = labeled boxes, functions =
@@ -60,14 +60,17 @@ but is still developing tolerance for abstract symbol manipulation
 
 This is also why the curriculum leans heavily on:
 
-- **StatQuest with Josh Starmer** — for stats and ML, with the friendliest
-  visualizations on the internet.
-- **3Blue1Brown** — for math intuition (some episodes are too advanced; we
-  cherry-pick).
-- **Code.org, Scratch, Brilliant.org** — for interactive visual thinking.
-- **Teachable Machine** — for ML without code.
+- [**StatQuest with Josh Starmer**](https://www.youtube.com/@statquest) —
+  for stats and ML, with the friendliest visualizations on the internet.
+- [**3Blue1Brown**](https://www.youtube.com/@3blue1brown) — for math
+  intuition (some episodes are too advanced; we cherry-pick).
+- [**Code.org**](https://studio.code.org/courses),
+  [**Scratch**](https://scratch.mit.edu),
+  [**Brilliant.org**](https://brilliant.org) — for interactive visual thinking.
+- [**Teachable Machine**](https://teachablemachine.withgoogle.com) — for ML
+  without code.
 
-Full list in [`resources.md`](./resources.md).
+Full list with direct links in [`resources.md`](./resources.md).
 
 ---
 
@@ -76,11 +79,11 @@ Full list in [`resources.md`](./resources.md).
 We deliberately keep the tool count small so the kid develops fluency, not
 tab-confusion.
 
-| Platform                | What we use it for                                | When introduced |
-|-------------------------|---------------------------------------------------|-----------------|
-| **Replit** (in browser) | Writing & running Python from day one             | Phase 2         |
-| **Google Colab**        | Notebooks, pandas, plots, ML (no install pain)    | Phase 5         |
-| **A notebook + pen**    | Sketching ideas, drawing data flow, taking notes  | Phase 1         |
+| Platform                                                         | What we use it for                                | When introduced |
+|------------------------------------------------------------------|---------------------------------------------------|-----------------|
+| [**Replit**](https://replit.com) (in browser)                    | Writing & running Python from day one             | Phase 2         |
+| [**Google Colab**](https://colab.research.google.com)            | Notebooks, pandas, plots, ML (no install pain)    | Phase 5         |
+| **A notebook + pen**                                             | Sketching ideas, drawing data flow, taking notes  | Phase 1         |
 
 That's it. Everything else (Scratch, Brilliant, Khan, YouTube) is a
 *visit*, not a home.
@@ -93,8 +96,9 @@ The user (parent) specifically asked for **critical problem solving on
 coding platforms**. We treat that as a separate muscle from "learning
 Python syntax". So we train it explicitly:
 
-- In **Phase 3**, every session ends with **2 problems on CodingBat or
-  Edabit**, chosen by difficulty, not topic.
+- In **Phase 3**, every session ends with **2 problems on
+  [CodingBat](https://codingbat.com/python) or
+  [Edabit](https://edabit.com)**, chosen by difficulty, not topic.
 - We follow a fixed **"Solve, then Explain, then Optimize"** pattern (the
   STO loop) for every problem:
   1. **Solve** — get *any* working answer, even ugly.
@@ -103,8 +107,9 @@ Python syntax". So we train it explicitly:
 - Problems are kept in a personal **`solved/`** folder with one-line notes:
   *"What did I learn from this one?"*
 
-This is also great preparation for school olympiads (Bebras, IOI Junior,
-etc.) if the kid is interested later.
+This is also great preparation for school olympiads
+([Bebras](https://www.bebraschallenge.org), IOI Junior, etc.) if the kid
+is interested later.
 
 ---
 
@@ -113,7 +118,8 @@ etc.) if the kid is interested later.
 - All platforms used are kid-safe and widely vetted.
 - Sessions are capped at **60 min** plus a 5-min explain-back; longer
   doesn't help retention at this age.
-- **AI tools (ChatGPT, Cursor, etc.) are introduced only in Phase 5**, and
+- **AI tools ([ChatGPT](https://chat.openai.com),
+  [Cursor](https://cursor.com), etc.) are introduced only in Phase 5**, and
   used as a *tutor*, never as a code generator the kid pastes from.
   The rule: *"You may ask the AI to explain, never to do."* The parent
   supervises AI sessions until the habit is solid.

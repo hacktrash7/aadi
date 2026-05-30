@@ -39,46 +39,43 @@ explored with a slider.
 
 This is the most video-friendly phase of the curriculum. We use it.
 
-### The spine: **StatQuest with Josh Starmer** (YouTube)
+### The spine: [**StatQuest with Josh Starmer**](https://www.youtube.com/@statquest)
 
 StatQuest is, by a wide margin, the friendliest, most visual stats channel
-on the internet. The "Statistics Fundamentals" playlist is the spine.
+on the internet. The "Statistics Fundamentals" playlist is the spine — watch them in order, **one per session**:
 
-Watch these in order, **one per session**:
-
-1. *"Statistics Fundamentals: Histograms"* (3 min)
-2. *"The Mean, Variance and Standard Deviation, Clearly Explained!"* (14 min)
-3. *"The Median in 1 Minute"* (1 min)
-4. *"Percentiles and Quantiles, Clearly Explained!!!"* (6 min)
-5. *"Boxplots, Clearly Explained"* (5 min)
-6. *"The Normal Distribution, Clearly Explained!!!"* (5 min)
-7. *"Probability is not Likelihood. Find out why!"* (5 min — only the
-   intuition; skip if too heavy)
-8. *"Pearson's Correlation, Clearly Explained!!!"* (8 min)
+| # | Video | Length |
+|---|-------|--------|
+| 1 | [*"Histograms, Clearly Explained"*](https://www.youtube.com/watch?v=qBigTkBLU6g)                                    | 3 min  |
+| 2 | [*"The Mean, Variance and Standard Deviation, Clearly Explained!"*](https://www.youtube.com/watch?v=SzZ6GpcfoQY)    | 14 min |
+| 3 | [*"The Median, In 1 Minute"*](https://www.youtube.com/results?search_query=statquest+median+in+1+minute)            | 1 min  |
+| 4 | [*"Percentiles and Quantiles, Clearly Explained!!!"*](https://www.youtube.com/watch?v=IFKQLDmRK0Y)                  | 6 min  |
+| 5 | [*"Boxplots, Clearly Explained"*](https://www.youtube.com/watch?v=fHLhBnmwUM0)                                      | 5 min  |
+| 6 | [*"The Normal Distribution, Clearly Explained!!!"*](https://www.youtube.com/watch?v=rzFX5NWojp0)                    | 5 min  |
+| 7 | [*"Probability is not Likelihood. Find out why!!!"*](https://www.youtube.com/watch?v=pYxNSUDSFH4) — intuition only  | 5 min  |
+| 8 | [*"Pearson's Correlation, Clearly Explained!!!"*](https://www.youtube.com/watch?v=xZ_z8KWkhXE)                      | 8 min  |
 
 ### Supporting videos
 
-| Topic                                | Channel / Video                                                  | Length |
-|--------------------------------------|------------------------------------------------------------------|--------|
-| What is data?                        | TED-Ed — *"What's all that data about you?"*                     | 5 min  |
-| Why averages can mislead             | Veritasium — *"The Simpson's Paradox"* (or Numberphile version)  | 8 min  |
-| The Law of Large Numbers (visualized)| 3Blue1Brown — *"Probabilities of probabilities"* (first 5 min)   | 5 min  |
-| Lying with charts                    | Vox — *"This is the most misleading chart on the internet"*      | 6 min  |
-| Correlation ≠ causation              | TED-Ed — *"Why correlation doesn't imply causation"*             | 4 min  |
-| What a histogram actually shows      | 3Blue1Brown — *"But what is a histogram?"* (excerpt is fine)     | 5 min  |
+| Topic                                | Channel / Video                                                                                                                              | Length |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| What is data?                        | TED-Ed — [*"What's all that data about you?"*](https://www.youtube.com/results?search_query=ted-ed+what%27s+all+that+data+about+you)         | 5 min  |
+| Why averages can mislead             | Veritasium — [*"Simpson's Paradox"*](https://www.youtube.com/watch?v=ebEkn-BiW5k)                                                            | 8 min  |
+| The Law of Large Numbers (visualized)| 3Blue1Brown — [*"Probabilities of probabilities"*](https://www.youtube.com/watch?v=8idr1WZ1A7Q) (first 5 min)                                | 5 min  |
+| Lying with charts                    | Vox — [*"The most misleading charts of 2015, fixed"*](https://www.youtube.com/watch?v=E91bGT9BjYk)                                            | 6 min  |
+| Correlation ≠ causation              | TED-Ed — [*"Why correlation doesn't imply causation"*](https://www.youtube.com/results?search_query=ted-ed+correlation+causation)             | 4 min  |
+| What a histogram actually shows      | StatQuest — [*"Histograms"* (rewatch)](https://www.youtube.com/watch?v=qBigTkBLU6g)                                                          | 3 min  |
 
 ### Bonus, weekend watching
 
-- **Hans Rosling — "200 Countries, 200 Years, 4 Minutes"** (BBC, on YouTube).
-  Hands-down the most inspiring data-storytelling clip ever filmed.
-- **Gapminder**'s animated bubble charts (gapminder.org/tools) — let the
-  kid press play on a few topics that interest them.
+- [**Hans Rosling — "200 Countries, 200 Years, 4 Minutes"** (BBC)](https://www.youtube.com/watch?v=jbkSRLYSojo). Hands-down the most inspiring data-storytelling clip ever filmed.
+- [**Gapminder Tools**](https://www.gapminder.org/tools) — let the kid press play on a few topics that interest them.
 
 ---
 
 ## Play (interactive platforms)
 
-### Primary — **Google Sheets**
+### Primary — [**Google Sheets**](https://sheets.google.com)
 
 Yes, really. Sheets are the kid-friendliest data tool on Earth: every cell
 is visible, every formula is editable, charts appear with two clicks.
@@ -95,15 +92,14 @@ We'll be *moving away* from Sheets into pandas in Phase 5 — but the kid
 will forever benefit from having the spreadsheet mental model first.
 ("Pandas is just Sheets that you talk to in code.")
 
-### Secondary — **Brilliant.org**
+### Secondary — [**Brilliant.org**](https://brilliant.org)
 
-The **"Probability Fundamentals"** and **"Statistics Fundamentals"** courses
-are visual, interactive, and perfectly age-appropriate. If you have access
-(free trial works), this is excellent.
+The [**Probability Fundamentals**](https://brilliant.org/courses/probability-fundamentals/) and
+[**Statistics Fundamentals**](https://brilliant.org/courses/statistics/) courses are visual, interactive, and perfectly age-appropriate. If you have access (free trial works), this is excellent.
 
-### Tertiary — **Desmos & GeoGebra**
+### Tertiary — [**Desmos**](https://www.desmos.com/calculator) & [**GeoGebra**](https://www.geogebra.org)
 
-Use the **Desmos statistics calculator** to drop in 20 numbers and see
+Use the [**Desmos statistics calculator**](https://www.desmos.com/calculator) to drop in 20 numbers and see
 the mean / median / IQR / boxplot update *as you drag points*. Magical.
 
 ### Code-side play — *first* Python data work
@@ -132,7 +128,7 @@ from Phase 3, so the kid feels the two phases connecting.
 | 4          | **Weather chart** — load a month of local weather from a free CSV; chart it; spot the outliers | Charts, outliers       |
 | 5          | **Coin-flip simulator** in Python                                | Probability + code     |
 | 6          | **Lying-with-charts challenge** — kid creates *two* charts of the same data: one honest, one misleading | Chart literacy   |
-| 7          | **Gapminder tour** — pick 3 countries, write a 1-paragraph story comparing them using Gapminder | Storytelling with data |
+| 7          | **Gapminder tour** — pick 3 countries, write a 1-paragraph story comparing them using [Gapminder](https://www.gapminder.org/tools) | Storytelling with data |
 | 8          | **Mini-report** (1-page Google Doc) summarizing any dataset of choice: question → chart → finding | Putting it together   |
 
 ---
